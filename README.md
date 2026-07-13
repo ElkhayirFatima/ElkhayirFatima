@@ -1,7 +1,7 @@
 ## About Me<br><br> Final-year Computer Engineering student at ENSA Oujda, specializing in Artificial Intelligence.<br><br>Passionate about building intelligent, scalable, and cloud-native applications by combining Software Engineering, AI, Cloud Computing, and DevOps.<br><br>Based in Oujda, Morocco.<br><br>---<br><br> I'm currently working on:<br>**Talk2Job** — an AI-powered recruitment platform built with ASP.NET Core microservices, Python AI services, React, PostgreSQL, and API Gateway.<br><br> I'm currently learning:<br>Advanced Cloud Architecture, Kubernetes, Terraform, MLOps, and System Design.<br><br>I'm looking to collaborate on:<br>Open-source projects related to AI, Full-Stack Development, Cloud Computing, DevOps, and Software Architecture.<br><br> I'm looking for help with:<br>Distributed systems, scalable AI architectures, and production-grade cloud deployments.<br><br>Ask me about:<br>ASP.NET Core • React • Python • AI Applications • Microservices • Docker • CI/CD • Terraform • PostgreSQL<br><br>Achievements:<br>1st Place Hackathon Winner<br>Computer Engineering Student @ ENSA Oujda<br> Fun fact:<br>I enjoy transforming complex ideas into clean, scalable software solutions while continuously exploring new technologies.
 
 
-##Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatima_elkhayir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-elkhayir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elkhayirf@gmail.com) 
 
 # Tech Stack:
